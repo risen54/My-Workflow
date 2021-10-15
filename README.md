@@ -16,4 +16,4 @@ Vim also increases my efficiency and speed 💢!
 
 - I use ![gruvbox](https://github.com/morhetz/gruvbox) theme in vim
 
-### I use ![Ubuntu 20.04](https://ubuntu.com/) as my main OS, and I also sometimes use Windows 10 via dual boot
+I use ![Ubuntu 20.04](https://ubuntu.com/) as my main OS, and I also sometimes use Windows 10 via dual boot
